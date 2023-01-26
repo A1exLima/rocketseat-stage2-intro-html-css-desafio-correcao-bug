@@ -36,8 +36,6 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo: </p>
 <p align="start">
 O desafio foi deixar o site como está no layout figma.</p>
 
-<br/>
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1&t=0gxL6C4w2m18NclE-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
