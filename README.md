@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Introdução HTMl e CSS" src="./images/imgReadme.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/imgReadme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,16 +23,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<p align="center">
+<p align="start">
 Nesse desafio foi recebido um código com o projeto desenvolvido durante as aulas da Fase 01 do programa Explorer da RocketSeat.
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo: </p>
 
 <p align="center">
-  <img alt="Projeto Introdução HTMl e CSS" src="./images/imgReadmeBug.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/imgReadmeBug.png" width="100%">
 </p>
 
 <br/>
-O desafio foi deixar o site como está no layout figma.
+
+<p align="start">
+O desafio foi deixar o site como está no layout figma.</p>
 
 <br/>
 
